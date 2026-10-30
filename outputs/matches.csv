@@ -1,0 +1,12 @@
+lost_id,found_id,score,level,reasons,lost_report,found_report
+L01,F01,5,likely,same colour (+2); same brand (+2); same place (+1),Lost my black Samsung phone near the library,Black Samsung phone found on a library table
+L04,F04,5,likely,same colour (+2); same brand (+2); same place (+1),My white Apple earphones went missing in the lab,White Apple earphones found in the lab
+L07,F08,5,likely,same colour (+2); same brand (+2); same place (+1),Lost my black Casio watch near the library,Black Casio watch found in the library
+L02,F02,3,likely,same colour (+2); same place (+1),Blue water bottle missing from the canteen,Blue bottle found at the canteen
+L03,F03,3,likely,same colour (+2); same place (+1),Lost a brown leather wallet in the classroom,Brown wallet found in the classroom
+L05,F05,3,likely,same colour (+2); same place (+1),Lost red umbrella near the bus stop,Red umbrella found near the bus stop
+L06,F06,3,likely,same colour (+2); same place (+1),Green backpack missing from the hostel,Green backpack found at the hostel
+L09,F10,3,likely,same colour (+2); same place (+1),Lost a yellow calculator in the classroom,Yellow calculator found in the classroom
+L01,F07,2,possible,same colour (+2),Lost my black Samsung phone near the library,Black phone found near the canteen
+L08,F01,2,possible,same colour (+2),My black phone is missing,Black Samsung phone found on a library table
+L08,F07,2,possible,same colour (+2),My black phone is missing,Black phone found near the canteen

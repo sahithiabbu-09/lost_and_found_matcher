@@ -1,0 +1,13 @@
+LOST AND FOUND MATCHER SUMMARY
+Lost reports: 10
+Found reports: 10
+Suggested pairs: 11
+Lost reports with no suggestion: 1
+Unclaimed found items: 1
+
+Found items suggested for multiple lost reports:
+F01: L01, L08
+F07: L01, L08
+
+IMPORTANT: Suggestions are not proof of ownership. Help desk must verify
+the claimant using a detail absent from both reports.
